@@ -7,4 +7,4 @@ This is my C Submission for Reverse Integer on leetcode.com.
 
 Given an integer you have to reverse it, if it is negative it will stay negative. (e.g. -123 will be -321)
 
-I guess there aren't many C submissions for me to be fastest, or there weren't enough test cases so my code did them all faster than 1 ms.
+I guess there aren't many C submissions for me to be fastest, or there weren't enough test cases so my code was able to finish them all in less than 1 ms.
